@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="taroGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8E44AD" />
+      <stop offset="100%" style="stop-color:#9B59B6" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Cup -->
+  <path d="M40 60 L160 60 L140 180 L60 180 Z" fill="#FFFFFF" stroke="#000000" stroke-width="4"/>
+  
+  <!-- Taro milk tea -->
+  <path d="M45 70 L155 70 L137 175 L63 175 Z" fill="url(#taroGradient)"/>
+  
+  <!-- Boba pearls -->
+  <circle cx="70" cy="160" r="8" fill="#4A0E0E"/>
+  <circle cx="90" cy="155" r="8" fill="#4A0E0E"/>
+  <circle cx="110" cy="158" r="8" fill="#4A0E0E"/>
+  <circle cx="130" cy="153" r="8" fill="#4A0E0E"/>
+  
+  <!-- Straw -->
+  <rect x="95" y="20" width="10" height="60" fill="#FF69B4" rx="5" ry="5"/>
+</svg>
